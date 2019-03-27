@@ -1,0 +1,5 @@
+C:\UTEC 2019\PROGRAM 1\Unidad 3\Clase-26-03-2019\Clase-26-03-2019\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\UTEC 2019\PROGRAM 1\Unidad 3\Clase-26-03-2019\Clase-26-03-2019\Operaciones\bin\Debug\Operaciones.dll
+C:\UTEC 2019\PROGRAM 1\Unidad 3\Clase-26-03-2019\Clase-26-03-2019\Operaciones\bin\Debug\Operaciones.pdb
+C:\UTEC 2019\PROGRAM 1\Unidad 3\Clase-26-03-2019\Clase-26-03-2019\Operaciones\obj\Debug\Operaciones.dll
+C:\UTEC 2019\PROGRAM 1\Unidad 3\Clase-26-03-2019\Clase-26-03-2019\Operaciones\obj\Debug\Operaciones.pdb
